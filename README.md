@@ -1,7 +1,7 @@
 # Weather_App
-This app uses Vinilla JavaScript, CSS and an API to gather weather information.
+This app uses Vanilla JavaScript, CSS and an API to gather weather information.
 # Functionality
-User is presented with a basic page. 
+User is presented with a simple and stylish weather page. 
 
 User then searches a city they want to know the weather of.
 
